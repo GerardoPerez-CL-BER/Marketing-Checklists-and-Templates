@@ -11,9 +11,9 @@ Simplify your marketing workflow with this collection of ready-to-use checklists
 
 ## How to Use:
 
-Click on it and make a copy of the file
-Customize templates to fit your specific needs.
-Implement the checklists for better marketing outcomes.
+* Click on it and make a copy of the file
+* Customize templates to fit your specific needs.
+* Implement the checklists for better marketing outcomes.
 
 ## Coming Soon:
 
