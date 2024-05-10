@@ -6,7 +6,7 @@ Simplify your marketing workflow with this collection of ready-to-use checklists
 
 * **SEO Checklist:** A comprehensive guide to ensure your website is optimized for search engines. 🔎
 * **Google Ads - Group Ads Template:** Structure effective Google Ads campaigns with this easy-to-follow template. 🚀
-* **Business Model Canvas Press Agency Template (German 🇩🇪)**: Develop your business strategy with this tailored canvas. 🇩🇪
+* [**Business Model Canvas Press Agency Template (German 🇩🇪)**](https://docs.google.com/drawings/d/17vCQj5trB2_1Y3x1Sp4nePUwifUHfOXEB0DYf9iZX9M/edit?usp=drive_link): Develop your business strategy with this tailored canvas.
 * **Customer Journey Press Agency Template (German  🇩🇪):** Map your client's journey for targeted outreach and better service
 
 ## How to Use:
