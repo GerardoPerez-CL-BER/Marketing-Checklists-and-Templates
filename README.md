@@ -8,6 +8,7 @@ Simplify your marketing workflow with this collection of ready-to-use checklists
 * [**Google Ads - Group Ads Template**](https://docs.google.com/spreadsheets/d/1GesFQUxMdZeb6U6xkiZ6Cn7B87VfBqtF-M_U6yiPyHI/edit?usp=sharing): Structure effective Google Ads campaigns with this easy-to-follow template. 🚀
 * [**Business Model Canvas Press Agency Template (German 🇩🇪)**](https://docs.google.com/drawings/d/17vCQj5trB2_1Y3x1Sp4nePUwifUHfOXEB0DYf9iZX9M/edit?usp=drive_link): Develop your business strategy with this tailored canvas.
 * [**Customer Journey Press Agency Template (German  🇩🇪)**](https://docs.google.com/document/d/1cNjfaJCH4kxCpKpWnNXRd4GG9gPP-QnX/edit?usp=drive_link&ouid=116615169700623543690&rtpof=true&sd=true): Map your client's journey for targeted outreach and better service
+* [**The Chocolate Shop Measurement Plan**](https://docs.google.com/spreadsheets/d/1XVwvFstpIYmvWG-ghTvLhh9HI96DXqa3mNOsycATNRo/edit?usp=sharing): This template contains a detailed basic measurement plan for The Chocolate Shop's website. The plan outlines key events, triggers, tracking goals, KPIs (Key Performance Indicators), and implementation notes for tracking user interactions and website performance using Google Tag Manager.
 
 ## How to Use:
 
